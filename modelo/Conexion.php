@@ -2,7 +2,7 @@
 
 class Conexion
 {
-private $servername="localhost:3306";
+private $servername="localhost:3333";
 private $username="root";
 private $password="";
 private $dbname="tienda";
